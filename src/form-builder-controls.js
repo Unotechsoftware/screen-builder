@@ -200,6 +200,7 @@ export default [
       inspector: [
         keyNameProperty,
         labelProperty,
+        readonlyProperty,
         placeholderProperty,
         validationRulesProperty,
         helperTextProperty,
